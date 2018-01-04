@@ -15,4 +15,4 @@ Basic demonstration of SceneKit with objects and animations
 
 ---
 
-Pramod Kotipalli
+[Pramod Kotipalli](http://pramodk.net/) // [@p13i](https://github.com/p13i/)
