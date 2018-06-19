@@ -13,6 +13,7 @@ let frame = CGRect(
 let sceneView = SCNView(frame: frame)
 sceneView.showsStatistics = true
 sceneView.autoenablesDefaultLighting = true
+sceneView.allowsCameraControl = true
 sceneView.scene = SCNScene()
 
 // Setup our view into the scene
